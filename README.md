@@ -2,10 +2,6 @@
 
 A bold, neo-brutalist personal portfolio website built with plain **HTML, CSS and JavaScript**: no frameworks, no build step. Content is laid out as full-screen colour-blocked panels that you scroll through horizontally on desktop, with a dark mode, a custom cursor, and scroll-reveal animations.
 
-> **Live demo:** _add your GitHub Pages / Netlify link here_
->
-> **Screenshot:** _add `docs/screenshot.png` and embed it with `![Portfolio preview](docs/screenshot.png)`_
-
 ---
 
 ## Features
@@ -104,9 +100,6 @@ Works in current versions of Chrome, Edge, Firefox and Safari. It relies on CSS 
 **Vinaya R Pillai**: final-year Computer Science Engineering student, Amal Jyothi College of Engineering.
 
 - GitHub: [@vinayarpillai2027](https://github.com/vinayarpillai2027)
-- LinkedIn: _add link_
-- Email: _add address_
+- LinkedIn:https://www.linkedin.com/in/vinaya-pillai-4a60633b1/
+- Email:vinayapillai2017@gmail.com
 
-## License
-
-_Choose a license (for example MIT) and add a `LICENSE` file, or remove this section._
